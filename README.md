@@ -1,31 +1,19 @@
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
+# Introducing Husky Threads - A community communications platform (CCP) for Houston Christian University| React, Next JS, TypeScript, MongoDB
 ![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# Husky Threads
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+ThreadsApp is a social platform where users can engage in community discussions by creating threads, replying to others, and sharing their thoughts. With a focus on real-time interaction, ThreadsApp provides a vibrant environment for dynamic discussions.
 
-## Summary
-Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+## Features
 
-In this video, you'll:
-- Master Next.js 13.4 with Server Side Rendering
-- Learn MongoDB handling of complex schemas, multiple data population
-- Create beautiful layouts with TailwindCSS
-- Use Clerk for authentication
-- Handle file uploads with UploadThing
-- Explore Shadcn components
-- Listen to real-time events with webhooks
-- Understand middleware, API actions, and authorization
-- Explore & integrate new Next.js layout route groups
-- Validate data with Zod
-- Manage forms with react hook form
-- Create reusable components
-- Build a solid application architecture
-- Deploy the application and more!
+- **Community Engagement:** Users can search and participate in communities of interest.
+- **Thread Creation:** Users can create threads to start a discussion on any topic.
+- **Real-Time Replies:** The app supports real-time comments and replies to foster active discussions.
+- **Likes and Sharing:** Users can express their opinions by liking threads and sharing them with others.
+- **Profile Customization:** Users can customize their profiles with images and bios.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
