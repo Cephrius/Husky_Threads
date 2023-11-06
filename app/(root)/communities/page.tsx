@@ -7,6 +7,7 @@ import CommunityCard from "@/components/cards/CommunityCard";
 
 import { fetchUser } from "@/lib/actions/user.actions";
 import { fetchCommunities } from "@/lib/actions/community.actions";
+import Community from "@/lib/models/community.model";
 
 async function Page({
   searchParams,
@@ -52,7 +53,7 @@ async function Page({
           </>
         )}
       </section>
-
+      {console.log("COMMUNITY", Community)}
       <Pagination
         path='communities'
         pageNumber={searchParams?.page ? +searchParams.page : 1}

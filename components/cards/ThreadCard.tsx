@@ -1,3 +1,6 @@
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 
@@ -39,6 +42,9 @@ function ThreadCard({
   comments,
   isComment,
 }: Props) {
+
+
+
   return (
     <article
       className={`flex w-full flex-col rounded-xl ${
@@ -76,15 +82,16 @@ function ThreadCard({
                   alt='heart'
                   width={24}
                   height={24}
-                  className='cursor-pointer object-contain'
+                  className="cursor-pointer object-contain"                  
                 />
                 <Link href={`/thread/${id}`}>
                   <Image
                     src='/assets/reply.svg'
-                    alt='heart'
+                    alt='like'
                     width={24}
                     height={24}
-                    className='cursor-pointer object-contain'
+                    className="cursor-pointer object-contain"
+                    
                   />
                 </Link>
                 <Image
@@ -143,6 +150,8 @@ function ThreadCard({
           </Link>
         </div>
       )}
+
+
 
       {!isComment && community && (
         <Link
