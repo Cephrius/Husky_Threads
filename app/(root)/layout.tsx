@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Husky Threads",
-  description: "",
+  description: "A community communications platform for Houston Christian University",
 };
 
 export default function RootLayout({
