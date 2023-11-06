@@ -150,8 +150,13 @@ function ThreadCard({
           </Link>
         </div>
       )}
-
-
+      <div className="mt-5">
+        {!isComment && !community &&
+          <p className='text-subtle-medium text-gray-1'>
+            {formatDateString(createdAt)}
+          </p>
+        }
+      </div>
 
       {!isComment && community && (
         <Link
