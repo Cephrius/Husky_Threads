@@ -3,7 +3,7 @@
 
 # Husky Threads
 
-Husky Threads is a social platform where users can engage in community discussions by creating threads, replying to others, and sharing their thoughts. With a focus on real-time interaction, ThreadsApp provides a vibrant environment for dynamic discussions.
+Husky Threads is a social platform where users can engage in community discussions by creating threads, replying to others, and sharing their thoughts. With a focus on real-time interaction, Husky Threads provides a vibrant environment for dynamic discussions.
 
 ## Features
 
